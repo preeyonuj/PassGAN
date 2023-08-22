@@ -1,2 +1,2 @@
-# GAN_for_passwords
+# PassGAN Implementation
  
